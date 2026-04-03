@@ -512,7 +512,7 @@ const materiaisDB = [];
 
 // ======================== EXPEDIENTE ========================
 const expediente = [
-  { nome: "Alfinete para mapas", imagem: "COLE_AQUI" },
+  { nome: "Alfinete para mapas", imagem: "Mapa.png" },
   { nome: "Apagador para quadro branco", imagem: "COLE_AQUI" },
   { nome: "Apagador para quadro negro", imagem: "COLE_AQUI" },
   { nome: "Bloco de desenho A3", imagem: "COLE_AQUI" },
